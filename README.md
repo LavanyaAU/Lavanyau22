@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Lavanya A U, aspiring software developer,
+I am Lavanya A U, aspiring software developer
 
 <!--
 **Lavanyau22/Lavanyau22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
